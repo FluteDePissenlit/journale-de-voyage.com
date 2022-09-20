@@ -56,6 +56,14 @@ body{
     font: normal 25px "Pacifico", sans-serif;
     margin-left: 50px;
 }
+@media (max-width: 1000px) {
+    .list-title {
+        font-size: 40px;
+    }
+    .list-body {
+        font-size: 20px;
+    }
+}
 
 
 /*PRESENTATION*/
