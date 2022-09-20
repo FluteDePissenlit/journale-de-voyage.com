@@ -58,7 +58,6 @@ body{
 }
 
 
-
 /*PRESENTATION*/
 .sec-presentation{
     display: flex;
@@ -120,7 +119,7 @@ body{
     height: 200px;
     width: 200px;
 }
-@media (max-width: 1500px) {
+@media (max-width: 1200px) {
     .div-croquis{
         width: 320px;
         height: 150px;
@@ -130,13 +129,24 @@ body{
         width: 150px;
     }
 }
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
     .div-croquis{
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
     }
 }
+@media (max-width: 600px) {
+    .div-croquis{
+        width: 220px;
+        height: 100px;
+    }
+    .croquis {
+        height: 100px;
+        width: 100px;
+    }
+}
+
 
 /*GLOBAL*/
 .sec-module {
