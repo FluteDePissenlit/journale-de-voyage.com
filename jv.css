@@ -128,11 +128,15 @@ body{
         width: 150px;
     }
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
     .div-croquis{
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
+    }
+}
+@media (max-width: 600px) {
+    .div-croquis{
         width: 220px;
         height: 100px;
     }
