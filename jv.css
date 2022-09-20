@@ -23,8 +23,8 @@ body{
 }
 @media (max-width: 600px) {
     body{
-        margin-right: 10px;
-        margin-left: 10px;
+        margin-right: 20px;
+        margin-left: 20px;
     }
 }
 .center{
@@ -107,7 +107,7 @@ body{
         width: auto;
     }
     .nom {
-        font: normal 40px "Boogaloo", sans-serif;
+        font: normal auto "Boogaloo", sans-serif;
     }
     .surnom {
         font: italic 15px "Boogaloo", sans-serif;
@@ -178,5 +178,6 @@ body{
     }
     .body {
         font-size: 15px;
+        text-indent: 40px;
     }
 }
