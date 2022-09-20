@@ -10,8 +10,8 @@
     color: rgb(0, 0, 0);
 }
 body{
-    margin-right:200px;
-    margin-left:200px;
+    margin-right:100px;
+    margin-left:100px;
     background-size: auto 100%;
     background-attachment: fixed;
 }
@@ -41,19 +41,19 @@ body{
     align-items: center;
 }
 .nav-body {
-    font: normal 30px "Architects Daughter", sans-serif;
+    font: normal 20px "Architects Daughter", sans-serif;
     padding-top: 10px;
 }
 
 
 /*PRESENTATION*/
 .list-title {
-    font: normal 60px "Boogaloo", sans-serif;
+    font: normal 40px "Boogaloo", sans-serif;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 .list-body {
-    font: normal 30px "Pacifico", sans-serif;
+    font: normal 15px "Pacifico", sans-serif;
     margin-left: 50px;
 }
 
@@ -79,15 +79,15 @@ body{
     width: 900px;
 }
 .nom {
-    font: normal 60px "Boogaloo", sans-serif;
+    font: normal 50px "Boogaloo", sans-serif;
 }
 .surnom {
-    font: italic 30px "Boogaloo", sans-serif;
+    font: italic 20px "Boogaloo", sans-serif;
     padding-left: 50px;
     text-align: center;
 }
 .famille {
-    font: normal 20px "Happy Monkey", sans-serif;
+    font: normal 15px "Happy Monkey", sans-serif;
     margin-top: 20px;
     text-align: center;
 }
@@ -99,15 +99,15 @@ body{
         width: 800px;
     }
     .nom {
-        font: normal 50px "Boogaloo", sans-serif;
+        font: normal 45px "Boogaloo", sans-serif;
     }
     .surnom {
-        font: italic 25px "Boogaloo", sans-serif;
+        font: italic 15px "Boogaloo", sans-serif;
         padding-left: 50px;
         text-align: center;
     }
     .famille {
-        font: normal 15px "Happy Monkey", sans-serif;
+        font: normal 10px "Happy Monkey", sans-serif;
         margin-top: 15px;
         text-align: center;
     }
@@ -155,26 +155,26 @@ body{
 }
 
 .sec_title {
-    font: normal 60px "Boogaloo", sans-serif;
+    font: normal 40px "Boogaloo", sans-serif;
     padding-top: 40px;
 }
 .body {
-    font: normal 30px "Pacifico", sans-serif;
+    font: normal 20px "Pacifico", sans-serif;
     text-indent: 70px;
 }
 @media (max-width: 1200px) {
     .sec_title {
-        font-size: 45px;
+        font-size: 30px;
     }
     .body {
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 @media (max-width: 1000px) {
     .sec_title {
-        font-size: 40px;
+        font-size: 25px;
     }
     .body {
-        font-size: 20px;
+        font-size: 10px;
     }
 }
