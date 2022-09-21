@@ -42,11 +42,11 @@ body{
     height: 150px;
     margin-top: 20px;
 }
-.nav_center {
+.nav-center {
     display: flex;
     align-items: center;
 }
-.nav-body {
+.nav_body {
     font: normal 20px "Architects Daughter", sans-serif;
     padding-top: 10px;
 }
